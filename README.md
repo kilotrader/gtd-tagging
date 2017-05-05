@@ -13,29 +13,38 @@ Tags for a GTD Syste
 
   Waiting Tags can be used to label tasks that are cannot be worked on right now since some additional action needs to be performed by you or somene else. To avoid losing control over these tasks, additional tags or follow-up dates are needed.
   
-- Clarify
-
-  Clarify Tags can be used to label tasks that need additional clarification. The clarification process might lead to create additional tasks that are more concise and actionable
-
 - Incubate
   Incuabe Tags can be used to label tasks are very early ideas 
 
-- Postpone
+- Knocked Down
   Postpone Tags can be used to label tasks that have shown up on your Today list but could not complete at the end of the day. 
 
 ### PLACE TAGS
 - Commute
-- Night hour
+- Weekend
 - Home
 
-### TIME
+### TIME and ENERGY TAGS
 - Focus
-- Easy
+- Brain Dead
+- Clarify and Think
+
+  Clarify Tags can be used to label tasks that need additional clarification. The clarification process might lead to create additional tasks that are more concise and actionable
+  
+ - Burst
+ 
+ - Routine
+ 
+ - Hanging Arount
+ 
+  
+
 
 ### QUALITY
 - Stale
 - Unassigned 
 - Orphan
+- Overdue
 
 ### PERSPECTIVE
 - ???
