@@ -17,6 +17,7 @@ Tags for a GTD Syste
   Incuabe Tags can be used to label tasks are very early ideas 
 
 - Knocked Down
+
   Postpone Tags can be used to label tasks that have shown up on your Today list but could not complete at the end of the day. 
 
 ### PLACE TAGS
