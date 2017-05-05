@@ -6,6 +6,8 @@ Tags for a GTD Syste
 
 ### ACTION TAGS
 - Next
+  
+  Next Action Tags label can be used to tag tasks that are properly defined and can be done next. 
 - Waiting
 - Clarify
 - Incubate
