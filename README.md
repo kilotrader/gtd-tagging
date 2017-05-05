@@ -41,4 +41,7 @@ Tags for a GTD Syste
 - ???
 
 
+### Links
+https://simplicitybliss.com/a-fresh-take-on-contexts-6e17adea4b93
+
 
